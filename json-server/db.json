@@ -1,0 +1,592 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "AYLANAY COMBO",
+            "price": 41000,
+            "image": "https://images.unsplash.com/photo-1619221882018-15c0fc9c2243?w=400&h=300&fit=crop",
+            "description": "Lavash, fri va ichimlik"
+          },
+          {
+            "id": 2,
+            "name": "TOYIMLI COMBO",
+            "price": 79000,
+            "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=400&h=300&fit=crop",
+            "description": "Sandwich, donut, fri va ichimsssliklar"
+          },
+          {
+            "id": 3,
+            "name": "TOP COMBO",
+            "price": 55000,
+            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+            "description": "Burger, fri va ichimlik"
+          },
+          {
+            "id": 4,
+            "name": "KAMTAR COMBO",
+            "price": 37000,
+            "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=300&fit=crop",
+            "description": "Hot-dog, fri va ichimlik"
+          },
+          {
+            "id": 5,
+            "name": "MEGA COMBO",
+            "price": 95000,
+            "image": "https://images.unsplash.com/photo-1619221882018-15c0fc9c2243?w=400&h=300&fit=crop",
+            "description": "Ikki burger, fri, salat va ichimlik"
+          },
+          {
+            "id": 6,
+            "name": "FAMILY COMBO",
+            "price": 120000,
+            "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=400&h=300&fit=crop",
+            "description": "To'rt burger, fri va ichimliklar"
+          },
+          {
+            "id": 7,
+            "name": "KIDS COMBO",
+            "price": 28000,
+            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+            "description": "Kichkina burger, fri va sok"
+          },
+          {
+            "id": 8,
+            "name": "STUDENT COMBO",
+            "price": 35000,
+            "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=300&fit=crop",
+            "description": "Lavash yoki hot-dog va ichimlik"
+          },
+          {
+            "id": 9,
+            "name": "MORNING COMBO",
+            "price": 32000,
+            "image": "https://images.unsplash.com/photo-1619221882018-15c0fc9c2243?w=400&h=300&fit=crop",
+            "description": "Nonushta seti: tuxum, kolbasa, non"
+          },
+          {
+            "id": 10,
+            "name": "EVENING COMBO",
+            "price": 67000,
+            "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=400&h=300&fit=crop",
+            "description": "Kechki ovqat: pizza, fri, salat"
+          },
+          {
+            "id": 11,
+            "name": "CRISPY COMBO",
+            "price": 45000,
+            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+            "description": "Tovuq qanoti, fri va sous"
+          },
+          {
+            "id": 12,
+            "name": "SPICY COMBO",
+            "price": 52000,
+            "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=300&fit=crop",
+            "description": "Achchiq burger, fri va lemonad"
+          },
+          {
+            "id": 13,
+            "name": "CHEESE COMBO",
+            "price": 58000,
+            "image": "https://images.unsplash.com/photo-1619221882018-15c0fc9c2243?w=400&h=300&fit=crop",
+            "description": "Pishloqli burger, fri, cola"
+          },
+          {
+            "id": 14,
+            "name": "DOUBLE COMBO",
+            "price": 72000,
+            "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=400&h=300&fit=crop",
+            "description": "Ikki qavat burger, katta fri"
+          },
+          {
+            "id": 15,
+            "name": "CLASSIC BURGER",
+            "price": 38000,
+            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+            "description": "Oddiy burger va ichimlik"
+          },
+          {
+            "id": 16,
+            "name": "CHICKEN BURGER",
+            "price": 42000,
+            "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=300&fit=crop",
+            "description": "Tovuqli burger va fri"
+          },
+          {
+            "id": 17,
+            "name": "FISH BURGER",
+            "price": 48000,
+            "image": "https://images.unsplash.com/photo-1619221882018-15c0fc9c2243?w=400&h=300&fit=crop",
+            "description": "Baliqli burger va tartar sous"
+          },
+          {
+            "id": 18,
+            "name": "VEGGIE COMBO",
+            "price": 36000,
+            "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=400&h=300&fit=crop",
+            "description": "Sabzavotli burger va sharbat"
+          },
+          {
+            "id": 19,
+            "name": "BBQ COMBO",
+            "price": 63000,
+            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+            "description": "BBQ burger, fri va cola"
+          },
+          {
+            "id": 20,
+            "name": "DELUXE COMBO",
+            "price": 89000,
+            "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=300&fit=crop",
+            "description": "Premium burger, katta fri, salat"
+          },
+          {
+            "id": 21,
+            "name": "MINI COMBO",
+            "price": 25000,
+            "image": "https://images.unsplash.com/photo-1619221882018-15c0fc9c2243?w=400&h=300&fit=crop",
+            "description": "Mini burger va kichik fri"
+          },
+          {
+            "id": 22,
+            "name": "MAXI COMBO",
+            "price": 110000,
+            "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=400&h=300&fit=crop",
+            "description": "Uch burger, ikki fri, ichimlik"
+          },
+          {
+            "id": 23,
+            "name": "PARTY COMBO",
+            "price": 150000,
+            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+            "description": "To'rt burger, fri, salat, desert"
+          },
+          {
+            "id": 24,
+            "name": "OFFICE COMBO",
+            "price": 180000,
+            "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=300&fit=crop",
+            "description": "Besh burger, fri, salat, ichimliklar"
+          },
+          {
+            "id": 25,
+            "name": "LIGHT COMBO",
+            "price": 33000,
+            "image": "https://images.unsplash.com/photo-1619221882018-15c0fc9c2243?w=400&h=300&fit=crop",
+            "description": "Salat, grecha, sharbat"
+          },
+          {
+            "id": 26,
+            "name": "FITNESS COMBO",
+            "price": 39000,
+            "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=400&h=300&fit=crop",
+            "description": "Grilda tovuq, salat, suv"
+          },
+          {
+            "id": 27,
+            "name": "PROTEIN COMBO",
+            "price": 54000,
+            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+            "description": "Tovuq, tuxum, salat"
+          },
+          {
+            "id": 28,
+            "name": "BREAKFAST SET",
+            "price": 29000,
+            "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=300&fit=crop",
+            "description": "Omlet, non, qahva"
+          },
+          {
+            "id": 29,
+            "name": "LUNCH SET",
+            "price": 44000,
+            "image": "https://images.unsplash.com/photo-1619221882018-15c0fc9c2243?w=400&h=300&fit=crop",
+            "description": "Osh, salat, ichimlik"
+          },
+          {
+            "id": 30,
+            "name": "DINNER SET",
+            "price": 59000,
+            "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=400&h=300&fit=crop",
+            "description": "Steak, kartoshka, salat"
+          },
+          {
+            "id": 31,
+            "name": "PIZZA COMBO",
+            "price": 75000,
+            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+            "description": "Pizza, salat, coca-cola"
+          },
+          {
+            "id": 32,
+            "name": "PASTA COMBO",
+            "price": 49000,
+            "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=300&fit=crop",
+            "description": "Pasta, non, ichimlik"
+          },
+          {
+            "id": 33,
+            "name": "SUSHI COMBO",
+            "price": 85000,
+            "image": "https://images.unsplash.com/photo-1619221882018-15c0fc9c2243?w=400&h=300&fit=crop",
+            "description": "12 dona sushi, imbir, sous"
+          },
+          {
+            "id": 34,
+            "name": "WOK COMBO",
+            "price": 51000,
+            "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=400&h=300&fit=crop",
+            "description": "Wok, salat, sharbat"
+          },
+          {
+            "id": 35,
+            "name": "SALAD COMBO",
+            "price": 34000,
+            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+            "description": "Caesar salat va non"
+          },
+          {
+            "id": 36,
+            "name": "SOUP COMBO",
+            "price": 27000,
+            "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=300&fit=crop",
+            "description": "Sho'rva, non, choy"
+          },
+          {
+            "id": 37,
+            "name": "GRILL COMBO",
+            "price": 82000,
+            "image": "https://images.unsplash.com/photo-1619221882018-15c0fc9c2243?w=400&h=300&fit=crop",
+            "description": "Kabob, salat, lavaš"
+          },
+          {
+            "id": 38,
+            "name": "SHAWARMA COMBO",
+            "price": 38000,
+            "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=400&h=300&fit=crop",
+            "description": "Shawarma, fri, cola"
+          },
+          {
+            "id": 39,
+            "name": "WRAP COMBO",
+            "price": 36000,
+            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+            "description": "Wrap, chipsi, sharbat"
+          },
+          {
+            "id": 40,
+            "name": "TACOS COMBO",
+            "price": 43000,
+            "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=300&fit=crop",
+            "description": "Tacos, salsa, guacamole"
+          },
+          {
+            "id": 41,
+            "name": "QUESADILLA COMBO",
+            "price": 46000,
+            "image": "https://images.unsplash.com/photo-1619221882018-15c0fc9c2243?w=400&h=300&fit=crop",
+            "description": "Quesadilla, sous, chipsi"
+          },
+          {
+            "id": 42,
+            "name": "NACHOS COMBO",
+            "price": 40000,
+            "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=400&h=300&fit=crop",
+            "description": "Nachos, pishloq, sous"
+          },
+          {
+            "id": 43,
+            "name": "WINGS COMBO",
+            "price": 53000,
+            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+            "description": "Tovuq qanoti, fri, ranch"
+          },
+          {
+            "id": 44,
+            "name": "NUGGETS COMBO",
+            "price": 37000,
+            "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=300&fit=crop",
+            "description": "Nuggets, fri, ketchup"
+          },
+          {
+            "id": 45,
+            "name": "STRIPS COMBO",
+            "price": 41000,
+            "image": "https://images.unsplash.com/photo-1619221882018-15c0fc9c2243?w=400&h=300&fit=crop",
+            "description": "Chicken strips, fri, mayonez"
+          },
+          {
+            "id": 46,
+            "name": "POPCORN COMBO",
+            "price": 35000,
+            "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=400&h=300&fit=crop",
+            "description": "Popcorn chicken, fri, cola"
+          },
+          {
+            "id": 47,
+            "name": "TENDER COMBO",
+            "price": 47000,
+            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+            "description": "Chicken tenders, onion rings"
+          },
+          {
+            "id": 48,
+            "name": "CRISPY CHICKEN COMBO",
+            "price": 50000,
+            "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=300&fit=crop",
+            "description": "Crispy tovuq, fri, lemonad"
+          },
+          {
+            "id": 49,
+            "name": "FRIED CHICKEN COMBO",
+            "price": 56000,
+            "image": "https://images.unsplash.com/photo-1619221882018-15c0fc9c2243?w=400&h=300&fit=crop",
+            "description": "Qovurilgan tovuq, salat, non"
+          },
+          {
+            "id": 50,
+            "name": "GRILLED CHICKEN COMBO",
+            "price": 54000,
+            "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=400&h=300&fit=crop",
+            "description": "Grilda tovuq, kartoshka, salat"
+          },
+          {
+            "id": 51,
+            "name": "SEAFOOD COMBO",
+            "price": 95000,
+            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+            "description": "Dengiz mahsulotlari, non, limon"
+          },
+          {
+            "id": 52,
+            "name": "SHRIMP COMBO",
+            "price": 88000,
+            "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=300&fit=crop",
+            "description": "Qisqichbaqa, fri, tartar"
+          },
+          {
+            "id": 53,
+            "name": "SALMON COMBO",
+            "price": 105000,
+            "image": "https://images.unsplash.com/photo-1619221882018-15c0fc9c2243?w=400&h=300&fit=crop",
+            "description": "Losos, salat, guruch"
+          },
+          {
+            "id": 54,
+            "name": "TUNA COMBO",
+            "price": 92000,
+            "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=400&h=300&fit=crop",
+            "description": "Tuna, salat, limon"
+          },
+          {
+            "id": 55,
+            "name": "STEAK COMBO",
+            "price": 115000,
+            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+            "description": "Bifshteks, kartoshka, salat"
+          },
+          {
+            "id": 56,
+            "name": "RIBEYE COMBO",
+            "price": 125000,
+            "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=300&fit=crop",
+            "description": "Ribeye steak, purée, sous"
+          },
+          {
+            "id": 57,
+            "name": "TENDERLOIN COMBO",
+            "price": 135000,
+            "image": "https://images.unsplash.com/photo-1619221882018-15c0fc9c2243?w=400&h=300&fit=crop",
+            "description": "Tenderloin, sabzavot, vino"
+          },
+          {
+            "id": 58,
+            "name": "SIRLOIN COMBO",
+            "price": 118000,
+            "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=400&h=300&fit=crop",
+            "description": "Sirloin, salat, kartoshka"
+          },
+          {
+            "id": 59,
+            "name": "T-BONE COMBO",
+            "price": 145000,
+            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+            "description": "T-bone steak, fri, salat"
+          },
+          {
+            "id": 60,
+            "name": "PORTERHOUSE COMBO",
+            "price": 155000,
+            "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=300&fit=crop",
+            "description": "Porterhouse, grilda sabzavot"
+          },
+          {
+            "id": 61,
+            "name": "LAMB COMBO",
+            "price": 98000,
+            "image": "https://images.unsplash.com/photo-1619221882018-15c0fc9c2243?w=400&h=300&fit=crop",
+            "description": "Qo'y go'shti, guruch, salat"
+          },
+          {
+            "id": 62,
+            "name": "PORK COMBO",
+            "price": 87000,
+            "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=400&h=300&fit=crop",
+            "description": "Cho'chqa go'shti, kartoshka"
+          },
+          {
+            "id": 63,
+            "name": "DUCK COMBO",
+            "price": 112000,
+            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+            "description": "O'rdak, sabzavot, sous"
+          },
+          {
+            "id": 64,
+            "name": "TURKEY COMBO",
+            "price": 78000,
+            "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=300&fit=crop",
+            "description": "Kurka, salat, non"
+          },
+          {
+            "id": 65,
+            "name": "RABBIT COMBO",
+            "price": 93000,
+            "image": "https://images.unsplash.com/photo-1619221882018-15c0fc9c2243?w=400&h=300&fit=crop",
+            "description": "Quyon, kartoshka, sous"
+          },
+          {
+            "id": 66,
+            "name": "QUAIL COMBO",
+            "price": 85000,
+            "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=400&h=300&fit=crop",
+            "description": "Bedana, guruch, sabzavot"
+          },
+          {
+            "id": 67,
+            "name": "RICE COMBO",
+            "price": 32000,
+            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+            "description": "Palov, salat, choy"
+          },
+          {
+            "id": 68,
+            "name": "NOODLE COMBO",
+            "price": 38000,
+            "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=300&fit=crop",
+            "description": "Lagman, non, choy"
+          },
+          {
+            "id": 69,
+            "name": "RAMEN COMBO",
+            "price": 55000,
+            "image": "https://images.unsplash.com/photo-1619221882018-15c0fc9c2243?w=400&h=300&fit=crop",
+            "description": "Ramen, gyoza, choy"
+          },
+          {
+            "id": 70,
+            "name": "UDON COMBO",
+            "price": 52000,
+            "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=400&h=300&fit=crop",
+            "description": "Udon, spring rolls, sharbat"
+          },
+          {
+            "id": 71,
+            "name": "PHO COMBO",
+            "price": 48000,
+            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+            "description": "Pho, basil, limon"
+          },
+          {
+            "id": 72,
+            "name": "PAD THAI COMBO",
+            "price": 51000,
+            "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=300&fit=crop",
+            "description": "Pad Thai, spring rolls"
+          },
+          {
+            "id": 73,
+            "name": "CURRY COMBO",
+            "price": 49000,
+            "image": "https://images.unsplash.com/photo-1619221882018-15c0fc9c2243?w=400&h=300&fit=crop",
+            "description": "Curry, nan, guruch"
+          },
+          {
+            "id": 74,
+            "name": "BIRYANI COMBO",
+            "price": 57000,
+            "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=400&h=300&fit=crop",
+            "description": "Biryani, raita, papadum"
+          },
+          {
+            "id": 75,
+            "name": "TIKKA COMBO",
+            "price": 62000,
+            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+            "description": "Chicken tikka, nan, salat"
+          },
+          {
+            "id": 76,
+            "name": "TANDOORI COMBO",
+            "price": 68000,
+            "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=300&fit=crop",
+            "description": "Tandoori, guruch, raita"
+          },
+          {
+            "id": 77,
+            "name": "KEBAB COMBO",
+            "price": 59000,
+            "image": "https://images.unsplash.com/photo-1619221882018-15c0fc9c2243?w=400&h=300&fit=crop",
+            "description": "Shashlik, lavaš, salat"
+          },
+          {
+            "id": 78,
+            "name": "DONER COMBO",
+            "price": 44000,
+            "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=400&h=300&fit=crop",
+            "description": "Doner kebab, fri, ayran"
+          },
+          {
+            "id": 79,
+            "name": "GYROS COMBO",
+            "price": 47000,
+            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+            "description": "Gyros, tzatziki, chipsi"
+          },
+          {
+            "id": 80,
+            "name": "SOUVLAKI COMBO",
+            "price": 53000,
+            "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=300&fit=crop",
+            "description": "Souvlaki, pita, salat"
+          },
+          {
+            "id": 81,
+            "name": "FALAFEL COMBO",
+            "price": 39000,
+            "image": "https://images.unsplash.com/photo-1619221882018-15c0fc9c2243?w=400&h=300&fit=crop",
+            "description": "Falafel, hummus, pita"
+          },
+          {
+            "id": 82,
+            "name": "HUMMUS COMBO",
+            "price": 34000,
+            "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=400&h=300&fit=crop",
+            "description": "Hummus, pita, sabzavot"
+          },
+          {
+            "id": 83,
+            "name": "BABA GANOUSH COMBO",
+            "price": 36000,
+            "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+            "description": "Baba ganoush, lavaš, salat"
+          },
+          {
+            "id": 84,
+            "name": "TABBOULEH COMBO",
+            "price": 31000,
+            "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=300&fit=crop",
+            "description": "Tabbouleh, pita, limon"
+          }
+    ]
+}
